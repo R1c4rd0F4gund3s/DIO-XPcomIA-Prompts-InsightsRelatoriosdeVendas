@@ -1,11 +1,11 @@
 # DIO-XPcomIA-Prompts-InsightsRelatoriosdeVendas
 ## Meganium Sales Insights
 
-Este projeto realiza a análise de dados de vendas da Meganium, extraindo padrões e insights estratégicos, com apresentação visual no Excel.
+Este projeto realiza a análise de dados de vendas da loja fictícia Meganium utilizando IA, extraindo padrões e insights estratégicos.
 
 ## 📦 Estrutura
 
-- **data/** – Planilha bruta original.
+- **data/** – Arquivos com os dados brutos.
 - **prompts/** – Questões que guiaram a análise.
 - **insights/** – Documento com insights detalhados.
 
