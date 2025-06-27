@@ -1,0 +1,7 @@
+PROMPT 1: Faça um relatório detalhado de como está distribuído o faturamento por moeda. Aprofunde a análise com o detalhamento por marketplace e faça um gráfico para cada um.
+
+Distribuição do Faturamento por Moeda
+A tabela exibida mostra o valor total faturado em cada moeda registrada nas vendas dos três marketplaces (Shopee, Etsy e AliExpress). O gráfico de pizza representa a participação percentual de cada moeda no faturamento total da empresa. Dessa forma, é possível identificar se há uma concentração de receita em determinada moeda ou uma diversificação relevante entre moedas.
+
+Distribuição do Faturamento por Marketplace
+Também está disponível uma tabela com o faturamento total por marketplace, permitindo identificar qual plataforma gera mais receita para a empresa. O gráfico de pizza mostra a participação de cada marketplace sobre o total de vendas, evidenciando o peso relativo de cada canal nas receitas.

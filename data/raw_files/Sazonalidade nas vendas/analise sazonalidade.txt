@@ -1,0 +1,7 @@
+Análise de sazonalidade:
+
+Observando os dados agregados por mês, é possível identificar variações claras nas quantidades vendidas ao longo dos meses.
+
+Nos últimos meses listados, houve um aumento significativo de vendas em agosto (47 unidades), seguido por setembro (37) e outubro (38), o que pode indicar uma tendência de crescimento ou efeito sazonal.
+
+Para uma conclusão detalhada, é importante avaliar um período maior, mas já é possível perceber que existem meses com desempenho superior.

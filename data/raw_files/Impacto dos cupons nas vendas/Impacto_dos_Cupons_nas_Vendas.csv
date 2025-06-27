@@ -1,0 +1,10 @@
+marketplace,currency,coupon_used,volume_vendas,valor_vendas,pedidos
+AliExpress,EUR,True,12,1100,5
+AliExpress,GBP,True,18,1550,7
+AliExpress,USD,True,28,2470,8
+Etsy,EUR,True,31,2850,10
+Etsy,GBP,True,10,930,5
+Etsy,USD,True,15,1410,5
+Shopee,EUR,True,17,1510,4
+Shopee,GBP,True,18,1570,6
+Shopee,USD,True,29,2540,10

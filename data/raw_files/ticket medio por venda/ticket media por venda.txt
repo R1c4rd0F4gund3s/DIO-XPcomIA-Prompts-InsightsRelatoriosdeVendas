@@ -1,0 +1,1 @@
+A planilha “Ticket Médio por Venda” está disponível para consulta, detalhando o ticket médio por venda, separados por marketplace e moeda.
