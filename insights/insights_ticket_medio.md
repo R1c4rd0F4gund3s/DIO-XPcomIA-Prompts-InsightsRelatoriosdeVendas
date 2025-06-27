@@ -6,15 +6,15 @@
 
 | Marketplace  | Moeda | Vendas Totais | Pedidos Totais | Ticket Médio |
 |--------------|-------|----------------|----------------|--------------|
-| Shopee       | GBP   | 1570           | 6              | 261.67       |
-| Shopee       | USD   | 2540           | 10             | 254.00       |
-| Shopee       | EUR   | 1510           | 4              | 377.50       |
-| Etsy         | EUR   | 2850           | 10             | 285.00       |
-| Etsy         | GBP   | 930            | 5              | 186.00       |
-| Etsy         | USD   | 1410           | 5              | 282.00       |
-| AliExpress   | GBP   | 1550           | 7              | 221.43       |
-| AliExpress   | USD   | 2470           | 8              | 308.75       |
-| AliExpress   | EUR   | 1100           | 5              | 220.00       |
+| Shopee       | GBP   | 1570           | 6              |    261.67    |
+| Shopee       | USD   | 2540           | 10             |    254.00    |
+| Shopee       | EUR   | 1510           | 4              |    377.50    |
+| Etsy         | EUR   | 2850           | 10             |    285.00    |
+| Etsy         | GBP   | 930            | 5              |    186.00    |
+| Etsy         | USD   | 1410           | 5              |    282.00    |
+| AliExpress   | GBP   | 1550           | 7              |    221.43    |
+| AliExpress   | USD   | 2470           | 8              |    308.75    |
+| AliExpress   | EUR   | 1100           | 5              |    220.00    |
 
 ---
 
