@@ -18,7 +18,7 @@ Este projeto realiza a análise de dados de vendas da Meganium, extraindo padrõ
 
 ## 📊 Insights 
 
-1. Quais produtos mais venderam (em quantidade e faturamento)?
+1. [Quais produtos mais venderam (em quantidade e faturamento)?](/insights/insights_produtos_mais_vendidos.md)
 2. Quais plataformas tiveram mais vendas?
 3. Quais países mais compraram?
 4. Existe sazonalidade nas vendas (datas/meses com mais vendas)?
