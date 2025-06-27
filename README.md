@@ -9,13 +9,6 @@ Este projeto realiza a análise de dados de vendas da loja fictícia Meganium ut
 - **prompts/** – Questões que guiaram a análise.
 - **insights/** – Documento com insights detalhados.
 
-## 🚀 Como usar
-
-1. Abra o arquivo `excel/dashboard_meganium_sales.xlsx`.
-2. Use os filtros, gráficos dinâmicos e segmentações.
-3. Consulte `insights/insights_analise.md` para as principais descobertas.
-4. Os valores de vendas são exibidos nas moedas originais (EUR, USD, GBP).
-
 ## 📊 Insights 
 
 1. [Quais produtos mais venderam (em quantidade e faturamento)?](/insights/insights_produtos_mais_vendidos.md)
