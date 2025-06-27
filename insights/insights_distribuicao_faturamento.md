@@ -17,7 +17,9 @@
 - Se há **concentração de receita** em uma única moeda
 - Ou se há uma **diversificação relevante** entre as moedas utilizadas
 
+
 ---
+
 
 ## 🛒 Distribuição do Faturamento por Marketplace
 
