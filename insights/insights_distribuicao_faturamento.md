@@ -11,7 +11,7 @@
 
 🥧 Um **gráfico de pizza** representa a **participação percentual de cada moeda** no faturamento total da empresa.
 
-<img src="https://github.com/R1c4rd0F4gund3s/DIO-XPcomIA-Prompts-InsightsRelatoriosdeVendas/blob/main/data/raw_files/Faturamento%20por%20moeda/Faturamento_por_Moeda_Percentual.png" alt="Descrição da imagem" width="350"/>
+<img src="https://github.com/R1c4rd0F4gund3s/DIO-XPcomIA-Prompts-InsightsRelatoriosdeVendas/blob/main/data/raw_files/Faturamento%20por%20moeda/Faturamento_por_Moeda_Percentual.png" alt="Descrição da imagem" width="300"/>
 
 🔍 Essa visualização permite identificar:
 - Se há **concentração de receita** em uma única moeda
@@ -37,4 +37,4 @@
 
 📊 O gráfico de pizza mostra a **participação relativa de cada marketplace** no total de vendas da empresa, evidenciando:
 - O **peso de cada canal** no faturamento geral
-<img src="https://github.com/R1c4rd0F4gund3s/DIO-XPcomIA-Prompts-InsightsRelatoriosdeVendas/blob/main/data/raw_files/Faturamento%20por%20moeda/Distribui%C3%A7%C3%A3o%20do%20Faturamento%20por%20Marketplace.png" alt="Descrição da imagem" width="350"/>
+<img src="https://github.com/R1c4rd0F4gund3s/DIO-XPcomIA-Prompts-InsightsRelatoriosdeVendas/blob/main/data/raw_files/Faturamento%20por%20moeda/Distribui%C3%A7%C3%A3o%20do%20Faturamento%20por%20Marketplace.png" alt="Descrição da imagem" width="300"/>
