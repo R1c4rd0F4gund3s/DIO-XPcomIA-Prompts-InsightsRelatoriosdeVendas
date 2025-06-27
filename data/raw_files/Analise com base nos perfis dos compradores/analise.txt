@@ -1,0 +1,80 @@
+PROMPT 1: Para definir a idade dos compradores, utilize o campo date_birth e a data de hoje.
+PROMPT 2: Utilize como critério de análise para perfil de idade a classificação com base nas seguintes faixas: 18-24, 25-34, 35-44, 45-54, 55+
+PROMPT 3: Faça uma análise com base nos perfis dos compradores (idade, país, plataforma preferida).
+ChatGPT said:
+Vou realizar a análise conforme solicitado, utilizando exclusivamente os dados dos arquivos enviados.
+O foco será o perfil dos compradores, segmentando-os por faixa etária, país e plataforma preferida (Shopee, Etsy, AliExpress).
+Abaixo estão os passos que seguirei:
+
+Calcular a idade dos compradores a partir do campo date_birth usando a data de hoje (27/06/2025).
+
+Classificar compradores nas faixas etárias:
+
+18-24
+
+25-34
+
+35-44
+
+45-54
+
+55+
+
+Identificar o país de cada comprador.
+
+Determinar a plataforma preferida de cada comprador (aquela onde ele mais realizou compras).
+
+Apresentar a análise em planilha, incluindo uma tabela resumo.
+
+Vou iniciar lendo e processando os dados.
+
+Parece que houve um problema com a identificação do campo de data de nascimento em ao menos um dos arquivos. Vou revisar as colunas de cada base para garantir a correta identificação dos campos necessários (date_birth, country, buyer_id, buyer).
+Em seguida, repetirei o processo ajustando as padronizações. 
+
+Agora ficou claro que os nomes corretos dos campos são:
+
+Data de nascimento: buyer_birth_date
+
+Nome do comprador: buyer_name
+
+País: delivery_country
+
+Identificador do comprador: Não há um campo direto, mas podemos usar buyer_name em conjunto com delivery_country ou invoice_id como proxy para identificação do comprador.
+
+Vou reprocessar os dados com essa padronização e, caso não haja um ID único do comprador, utilizarei o nome e país como chave composta. 
+
+Houve um erro técnico na chamada do recurso de visualização, mas os dados já foram processados corretamente.
+Vou corrigir e exibir novamente os resultados, assim você terá acesso às planilhas detalhadas do perfil dos compradores e do resumo quantitativo por faixa etária, país e plataforma. 
+
+A primeira planilha já foi gerada corretamente com o perfil dos compradores.
+Vou corrigir para exibir também a tabela de resumo quantitativo por faixa etária, país e plataforma para completar sua análise. 
+
+Resumo Quantitativo Por Faixa Etária, País E Plataforma
+
+
+Agora, as duas planilhas estão disponíveis para você:
+
+Perfil dos Compradores: inclui o identificador, nome, idade, faixa etária, país e plataforma preferida de cada comprador.
+
+Resumo Quantitativo por Faixa Etária, País e Plataforma: permite visualizar a quantidade de compradores distintos em cada faixa etária, por país e por plataforma preferida.
+
+Análise dos Perfis dos Compradores
+1. Faixa Etária:
+A segmentação dos compradores por faixa etária mostra predominância nas faixas 18-24 e 25-34, com compradores mais jovens sendo especialmente presentes em países como Canadá, França, Japão e Reino Unido.
+
+2. País:
+Os compradores estão distribuídos por diferentes países, como Canadá, França, Japão, Reino Unido e Austrália. Algumas plataformas são mais populares em determinados países — por exemplo, a Etsy tem maior preferência no Canadá entre jovens de 18-24 anos, enquanto Shopee aparece entre os compradores da Austrália.
+
+3. Plataforma Preferida:
+A plataforma preferida varia conforme a faixa etária e o país:
+
+Etsy é popular entre jovens adultos no Canadá.
+
+AliExpress aparece em destaque na França, Reino Unido e Austrália para perfis de 18-34 anos.
+
+Shopee é preferida entre alguns compradores australianos e japoneses.
+
+Resumo:
+A maior parte dos compradores está concentrada em faixas etárias mais jovens (18-34 anos), com preferência de plataforma variando conforme o país de entrega. Não há concentração significativa em faixas acima de 35 anos, indicando um perfil mais jovem para a base analisada.
+
+Se precisar de qualquer filtragem específica ou gráficos para visualização dessas informações, só avisar! 

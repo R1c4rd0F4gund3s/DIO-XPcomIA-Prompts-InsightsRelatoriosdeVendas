@@ -1,0 +1,3 @@
+PROMPT 1: Para definir a idade dos compradores, utilize o campo date_birth e a data de hoje.
+PROMPT 2: Utilize como critério de análise para perfil de idade a classificação com base nas seguintes faixas: 18-24, 25-34, 35-44, 45-54, 55+
+PROMPT 3: Faça uma análise com base nos perfis dos compradores (idade, país, plataforma preferida).
