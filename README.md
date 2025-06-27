@@ -19,10 +19,10 @@ Este projeto realiza a análise de dados de vendas da Meganium, extraindo padrõ
 ## 📊 Insights 
 
 1. [Quais produtos mais venderam (em quantidade e faturamento)?](/insights/insights_produtos_mais_vendidos.md)
-2. [Existe sazonalidade nas vendas (datas/meses com mais vendas)?](insights_sazonalidade.md)
-3. [Qual o ticket médio por venda?](insights_ticket_medio.md)
-4. [Impacto dos cupons de desconto no volume e no valor das vendas.](insights_impacto_cupons.md)
-5. [Perfis dos compradores (idade, país, plataforma preferida).](insights_perfis_compradores.md)
+2. [Existe sazonalidade nas vendas (datas/meses com mais vendas)?](/insights/insights_sazonalidade.md)
+3. [Qual o ticket médio por venda?](/insights/insights_ticket_medio.md)
+4. [Impacto dos cupons de desconto no volume e no valor das vendas.](/insights/insights_impacto_cupons.md)
+5. [Perfis dos compradores (idade, país, plataforma preferida).](/insights/insights_perfis_compradores.md)
 
 
 ## 📬 Contato
