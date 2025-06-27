@@ -1,1 +1,1 @@
-
+PROMPT: Faça uma análise com base nos perfis dos compradores (idade, país, plataforma preferida).
